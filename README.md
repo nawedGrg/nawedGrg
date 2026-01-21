@@ -6,6 +6,10 @@
 - 😄 Pronouns: NAWED ...
 - ⚡ Fun fact: I once built a [thing], and it actually worked!...
 
+
+Languages and Tools:
+c css3 cypress express figma flask git graphql html5 illustrator javascript jest linux mongodb mysql nextjs nodejs postman python react redux sass sqlite tailwind typescript webpack
+
 <!---
 nawedGrg/nawedGrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -23,7 +23,7 @@ I'm a frontend developer building the bridge between functional backend logic an
 
 * 🌍 **Portfolio:** [dewan-gurung-portfolio.netlify.app](https://dewan-gurung-portfolio.netlify.app)/[Ai portfolio](https://v0-futuristic-developer-website.vercel.app)
 * 👀 **Interested in:** Full Stack Development, AI Integration, and UI/UX Design.
-* 📫 **How to reach me:**dewangurung34g@icloud.com
+* 📫 **How to reach me:** dewangurung34g@icloud.com
 * 😄 **Pronouns:** NAWED
 * ⚡ **Fun Fact:** I'm learning AI so the robots remember I was nice to them when they take over.
 

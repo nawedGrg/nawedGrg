@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Dewan Gurung
-- 👀 I’m interested in Full Stack...
-- 🌱 I’m currently learningTypescript React nodejs ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://dewan-gurung-portfolio.netlify.app  / https://v0-futuristic-developer-website.vercel.app
-- 😄 Pronouns: NAWED ...
-- ⚡ Fun fact: I once built a [thing], and it actually worked!...
+<h1 align="center">Hi 👋, I'm Dewan Gurung</h1>
+<h3 align="center">Full Stack Developer & AI Enthusiast from Nepal</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/nawedGrg/nawedGrg.svg" alt="Views" />
+</p>
+
+---
+
+### 🚀 About Me
+- 👋 **Hi, I'm Dewan!** I specialize in building scalable web applications.
+- 👀 **Interested in:** Full Stack Development, AI Integration, and UI/UX Design.
+- 🌱 **Learning:** Currently mastering **TypeScript, React, Node.js, and AI frameworks**.
+- 👨‍💻 **Portfolio:** [Check out my work here](https://dewan-gurung-portfolio.netlify.app)
+- 🚀 **Latest Project:** [Futuristic Dev Website](https://v0-futuristic-developer-website.vercel.app)
+- 😄 **Pronouns:** NAWED
+- ⚡ **Fun Fact:** I once built a project, and it actually worked on the first try!
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -20,11 +32,19 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
+
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="Dewan's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=nawedGrg&show_icons=true&theme=radical&hide_border=true" alt="Dewan's Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawedGrg&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
-<!---
-nawedGrg/nawedGrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 📫 Connect with me
+<p align="left">
+<a href="https://dewan-gurung-portfolio.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="30" /></a>
+</p>
